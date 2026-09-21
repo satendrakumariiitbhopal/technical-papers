@@ -134,13 +134,9 @@ One habit I would like to reduce is **checking my phone unnecessarily while stud
 I can use the four laws in reverse to reduce this habit:
 
 1. **Make the cue invisible:**  
-   I can keep my phone away from my study table and turn off unnecessary notifications.
 
 2. **Make it unattractive:**  
-   I can remind myself that checking the phone repeatedly breaks my concentration and makes studying take longer.
 
 3. **Make it difficult:**  
-   I can keep the phone in another room or inside my bag while studying.
 
 4. **Make it unsatisfying:**  
-   I can keep track of how many times I check my phone during a study session and try to reduce that number.
