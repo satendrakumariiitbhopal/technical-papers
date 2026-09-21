@@ -109,19 +109,14 @@ One habit I would like to do more of is **daily coding practice**.
 I can use the ideas from Tiny Habits and Atomic Habits in the following way:
 
 1. **Make the cue obvious:**  
-   I can keep my laptop and coding notes ready on my study table.
 
 2. **Make the habit attractive:**  
-   I can choose interesting JavaScript or DSA problems that I enjoy solving.
 
 3. **Make it easy:**  
-   Instead of deciding to study for two or three hours every day, I can start with just one coding problem or 15 minutes of practice.
 
 4. **Use an existing habit as a trigger:**  
-   After I finish my evening routine, I can start my coding practice.
 
 5. **Make the response satisfying:**  
-   After completing the problem, I can mark it as completed and appreciate the progress I made.
 
 ---
 
